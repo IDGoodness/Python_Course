@@ -1,0 +1,193 @@
+Python Intro:
+    What is Python?
+    What can Python do?
+    Why Python?
+    Python compared to other languages.
+
+
+Python Get Started:
+    Installing Python
+    Python in command line
+
+
+Python Syntax:
+    Python Indentation
+    Python Variables
+    Comments
+
+
+Python Comments:
+    What is it?
+    Creating a Comment
+    Multi Line Comments
+
+
+Python Variables:
+    What is it?
+    Creating Variables
+    Variable Names
+    Assign values to multiple Variables
+    Output Variables
+    Global Variables
+
+    
+Python Data Types:
+    Built-in Data Types:
+        Text Type: 	str
+        Numeric Types: 	int, float, complex
+        Sequence Types: 	list, tuple, range
+        Mapping Type: 	dict
+        Set Types: 	set, frozenset
+        Boolean Type: 	bool
+        Binary Types: 	bytes, bytearray, memoryview
+    Getting Data Type
+    Setting Data Type
+    Setting Specific Data Type
+
+
+Python Numbers:
+    int
+    float.........e, power of 10
+    complex
+    Type Conversion
+    Random Number
+
+
+Python Casting:
+    Specifying Data Type: int(), float() and str()
+    
+
+Python Strings:
+    String Literals
+    Assign String to a Variable
+    Multi Line String
+    Indexing
+    String Slicing
+    Negative Indexing, Slicing
+    String Length
+    String Methods:
+        strip(), lower(), upper(), replace()
+        split(),
+    Check String
+    String Concatenation
+    String Format
+    Escape Character
+
+
+Python Booleans:
+    Evaluate values and Variables
+
+
+Python Operators:
+    
+    Arithmetic operators
+    Assignment operators 
+    Comparison operators
+    Logical operators
+    Identity operators
+    Membership operators
+    Bitwise operators
+
+
+Python Lists:
+    Meaning.
+    List Indexing, +ve and -ve
+    Range of Indexes +ve and -ve
+    Changing Item Value
+    Looping through a list
+    Checking if an item exists
+    List Length
+    Adding items to a list
+    Removing items from a list
+    Copying a list
+    Joining two lists
+
+
+Python Tuples:
+    Accessing Tuple Items:
+        Indexing: +ve and -ve
+        Range: +ve and -ve
+
+
+Python Sets:
+    Loop through Sets
+    Checking items in a Set
+    Add Item to Set add() update()
+    Removing items, emptying set clear()
+    Joining items
+
+Python Dictionaries:
+    Accessing items
+    Changing values
+    Looping through a dictionary
+    Check if...exists
+    Dictionary Length
+    Add and remove items
+
+
+Python If...Else:
+    If
+    Elif
+    Else
+    Shorthand
+    Nested If
+
+
+Python While Loops:
+    While loop, use.
+    Break Statement
+    Continue Statement
+    The Else Statement
+
+
+Python For Loops:
+    For loop, use
+    Break Statement
+    Continue Statement
+    range() function
+    Else in loop
+    Nested loop
+    The pass Statement
+    
+    
+Python Functions:
+    what is it?
+    arbitrary argument
+    keyword argument
+    arbitrary keyword argument
+    default parameter value
+    passing a list as an argument
+    Return values
+    The pass Statement
+
+
+Python Lambda
+    Lambda, Lambda
+
+
+Python Arrays
+    What is it?
+    Accessing elements in an array
+    Length of an array
+    Looping array elements
+    Adding & Removing array elements
+
+
+Python Classes/Objects
+Python Inheritance
+Python Iterators
+Python Scope
+Python Modules
+Python Dates
+Python JSON
+Python RegEx
+Python PIP
+Python Try...Except
+Python User Input
+Python String Formatting
+
+File Handling
+Python File Handling
+Python Read Files
+Python Write/Create Files
+Python Delete Files
